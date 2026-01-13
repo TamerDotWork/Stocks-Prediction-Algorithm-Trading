@@ -1,4 +1,3 @@
-```markdown
 # Algorithmic Trading & Stock Prediction System
 
 ## Why This Exists
